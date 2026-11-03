@@ -5,6 +5,8 @@
 2. 参照dataset.py中的操作，从chinese-poetry/全唐诗/poet.song.*.json中提取所有五言绝句，用于模型训练。
 
 ## 模型
+
+
 1. 使用基于Transformer的模型，如GPT，BERT，BART等进行设计，不可以直接调用Pytorch的Transformer模型库，需要自己编写模型。
 
 ## 目标
